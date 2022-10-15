@@ -1,1 +1,1 @@
-Hi, I’m @francopoffo, I am a student of HTML5, CSS3 and Javascript. I will be creating repositories with the exercises I solve along the way.
+Hi, I’m @francopoffo, I'm a student of HTML5, CSS3 and Javascript. I'll be creating repositories with the exercises I solve along the way. My goal at the moment is to deepen my studies of these three languages and to acquire practice by creating a portfolio until the end of 2022.
