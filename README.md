@@ -3,7 +3,7 @@
   <img align="left" alt="Franco Poffo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-**Or:**
+**OR**
 
 Hi, I'm Franco Poffo, a Front End Developer from Brazil, who also has a degree in Mechanical Engineering.
  
