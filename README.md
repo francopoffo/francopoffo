@@ -13,9 +13,6 @@ Hi, I'm Franco Poffo, a Front End Developer from Brazil, who also has a degree i
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: franco_sutter@yahoo.com.br;
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
