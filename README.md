@@ -1,1 +1,1 @@
-Hi, I’m @francopoffo, I'm a Front-End developer who works with HTML5, CSS3 and Javascript. My goal at the moment is to deepen my studies of these three languages and to acquire practice by creating a portfolio until the end of 2022.
+Hi, I’m @francopoffo, I'm a Front-End developer who works with HTML5, CSS3, Javascript and React. My goal at the moment is to get hired.
