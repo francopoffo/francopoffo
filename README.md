@@ -26,3 +26,5 @@ Hi, I'm Franco Poffo, a Front End Developer from Brazil, who also has a degree i
 
 ![Franco's github stats](https://github-readme-stats.vercel.app/api?username=francopoffo&show_icons=true&hide_border=true&theme=radical)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=francopoffo&theme=radical)](https://git.io/streak-stats)
+
