@@ -23,8 +23,5 @@ Hi, I'm Franco Poffo, a Front End Developer from Brazil, who also has a degree i
 <code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
 
-
-![Franco's github stats](https://github-readme-stats.vercel.app/api?username=francopoffo&show_icons=true&hide_border=true&theme=radical)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=francopoffo&theme=radical)](https://git.io/streak-stats)
 
