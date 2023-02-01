@@ -8,7 +8,7 @@
 Hi, I'm Franco Poffo, a Front End Developer from Brazil, who also has a degree in Mechanical Engineering.
  
 
-- 🌱 I’m currently learning React and Next.js;
+- 🌱 I’m currently learning TypeScript;
 - 👜 I’m looking for my first job as a developer;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: franco_sutter@yahoo.com.br;
