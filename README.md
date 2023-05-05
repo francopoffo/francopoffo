@@ -5,7 +5,7 @@
 
 **OR**
 
-Hi, I'm Franco Poffo, a Front End Developer from Brazil, who also has a degree in Mechanical Engineering.
+Hi, I'm Franco Poffo, a dev from Brazil, who also has a degree in Mechanical Engineering.
  
 
 - 🌱 I’m currently learning back-end;
