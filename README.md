@@ -8,8 +8,7 @@
 Hi, I'm Franco Poffo, a dev from Brazil, who also has a degree in Mechanical Engineering.
  
 
-- 🌱 I’m currently learning back-end;
-- 👜 I’m looking for my first job as a developer;
+- 👜 I’m currently working at a brazilian tech company, acting as a fullstack web developer;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: franco_sutter@yahoo.com.br;
 
