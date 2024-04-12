@@ -10,7 +10,7 @@ Hi, I'm Franco Poffo, a dev from Brazil, who also has a degree in Mechanical Eng
 
 - 👜 I’m currently working at a brazilian tech company, acting as a fullstack web developer;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: franco_sutter@yahoo.com.br;
+- 📫 How to reach me: francopoffodev@gmail.com;
 
 
 
